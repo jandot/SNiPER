@@ -1,0 +1,19 @@
+h1. SNiPER
+
+h2. Background
+
+SNiPER started as a student project at the Programming For Biology course at Cold Spring Harbor Labs in October 2009. Students who contributed code were (in alphabetical order): Julien Ayroles, Aurelie Bonin, Chris Gregg, Steve Mount, Jen Parla and Ashley Wolf. The group was supported by Jenya (Jean) Babayev, Jan Aerts and the other TAs at the course.
+
+h2. Overview
+
+The aim of this project is to build a semi-automated pipeline for the analysis of single-nucleotide polymorphisms (SNPs) based on next-generation sequencing data in human. This pipeline consists of several parts:
+# Alignment of the original FASTQ files against a reference genome.
+# SNP calling based on these alignments
+# Functional annotation for the SNPs (_e.g._ NON_SYNONYMOUS_CODING, ESSENTIAL_SPLICE_SITE)
+# Identification of rare/novel SNPs based on comparison with data from 1000 Genomes Project, HapMap and dbSNP.
+
+All data is managed in a relational database.
+
+h2. Status
+
+This github repository is a placeholder until the code from the course has been made available.
