@@ -2,7 +2,7 @@ h1. SNiPER
 
 h2. Background
 
-SNiPER started as a student project at the Programming For Biology course at Cold Spring Harbor Labs in October 2009. Students who contributed code were (in alphabetical order): Julien Ayroles, Aurelie Bonin, Chris Gregg, Steve Mount, Jen Parla and Ashley Wolf. The group was supported by Jenya (Jean) Babayev, Jan Aerts and the other TAs at the course.
+SNiPER started as a student project at the "Programming For Biology course":http://meetings.cshl.edu/courses/c-info09.shtml at Cold Spring Harbor Labs in October 2009. Students who contributed code were (in alphabetical order): Julien Ayroles, Aurelie Bonin, Chris Gregg, Steve Mount, Jen Parla and Ashley Wolf. The group was supported by Jenya (Jean) Babayev, Jan Aerts and the other TAs at the course.
 
 h2. Overview
 
