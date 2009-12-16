@@ -1,0 +1,5 @@
+---
+mysql:
+  host: xxx
+  username: yyy
+  password: zzz
